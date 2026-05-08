@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+langgraph
+langchain-community
+pandas
+scipy
+matplotlib
+seaborn
